@@ -1,0 +1,6 @@
+Installation de Wordpress et d'une base de données MYSQL sur un oridinateur distant - script d'automatisation.
+1. Copiez l'ensemble de ces fichiers dans le même répertoire.
+2. Dans le shell, lancez le script principal à l'adresse [chemin du répertoire]/masterscript
+3. Répondez aux questions, l'installation se lance
+4. Pour accéder à Wordpress depuis l'ordinateur l'hébergeant, tapez dans votre navigateur localhost/wp-admin et répondez aux questions.
+
